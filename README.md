@@ -79,7 +79,7 @@ Projekt wymaga następującej struktury katalogów:
      - Datę raportu.
      - Analizę logów z komputerów (w tym informacje o restartach, synchronizacji czasu, logach systemowych i aplikacyjnych).
      - Szczegóły dotyczące obciążenia komputerów oraz przestrzeni dyskowej.
-     - Wnioski dotyczące stanu komputerów emisyjnych MIKROS.
+     - Wnioski dotyczące stanu komputerów emisyjnych.
 
 3. **Usuwanie logów**:
    - Po wygenerowaniu raportu program może (jeśli nie użyto flagi `--no-remove`) usunąć pobrane pliki logów, aby nie zajmowały miejsca na dysku.
@@ -87,6 +87,6 @@ Projekt wymaga następującej struktury katalogów:
 ## Funkcjonalności
 ### Funkcje dostępne w projekcie:
 - **Generowanie raportu** na podstawie logów z serwera.
-- **Analiza logów** z komputerów emisyjnych MIKROS (w tym dane o użyciu CPU, RAM oraz dysków).
+- **Analiza logów** z komputerów emisyjnych (w tym dane o użyciu CPU, RAM oraz dysków).
 - **Generowanie raportu w formacie Word** (z tabelami i tekstami analitycznymi).
 - **Usuwanie pobranych plików logów** (po zakończeniu operacji).
