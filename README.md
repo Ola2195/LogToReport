@@ -90,3 +90,11 @@ Projekt wymaga następującej struktury katalogów:
 - **Analiza logów** z komputerów emisyjnych (w tym dane o użyciu CPU, RAM oraz dysków).
 - **Generowanie raportu w formacie Word** (z tabelami i tekstami analitycznymi).
 - **Usuwanie pobranych plików logów** (po zakończeniu operacji).
+
+## Kierunek dalszych działań
+- Analiza logów synchronizacji czasu i automatyczne generowanie tej sekcji dokumentu.
+- Analiza logów systemowych i automatyczne generowanie tej sekcji dokumentu.
+- Analiza logów aplikacyjnych i automatyczne generowanie tej sekcji dokumentu.
+- Analiza dostępności portów tcp/udp i automatyczne generowanie tej sekcji dokumentu.
+- Obliczanie średniego miesięcznego przyrostu danych.
+- Automatyczne wyciąganie wniosków podsumowujących dokument.
